@@ -1,4 +1,4 @@
-# login-backend in java springboot
+# login-frontend in react
 
 create account(username and password) to store in database</br>
 encryption method implemented for the password</br>
